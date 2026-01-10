@@ -65,47 +65,47 @@
 
 <h4>🌐 Frontend Development</h4>
 <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind" />
+    <img src="https://img.shields.io/badge/HTML5-2E86C1?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-884EA0?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-2E86C1?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-884EA0?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-2E86C1?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-884EA0?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 <h4>🖥️ Backend Development</h4>
 <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" />
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="Flask" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+    <img src="https://img.shields.io/badge/Node.js-E74C3C?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-FF69B4?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-E67E22?style=for-the-badge&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-E74C3C?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-E67E22?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 <h4>🗄️ Databases</h4>
 <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40" alt="MariaDB" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/MySQL-2E86C1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MariaDB-884EA0?style=for-the-badge&logo=mariadb&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-2E86C1?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 <h4>🤖 Machine Learning & Data Science</h4>
 <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn" />
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow" />
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch" />
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/Pandas-E74C3C?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Scikit_Learn-FF69B4?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-E67E22?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-E74C3C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenCV-FF69B4?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 <h4>🛠️ Tools</h4>
 <p>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android" />
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop" />
+    <img src="https://img.shields.io/badge/Git-2E86C1?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-884EA0?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android-2E86C1?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-884EA0?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Adobe_Photoshop-2E86C1?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
 
 </div>
