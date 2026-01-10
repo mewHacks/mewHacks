@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Hana+Tang;Full+Stack+Developer;Hackathon+Enthusiast;AI+Engineer;Always+Achieving+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hana+Tang;Full+Stack+Developer;Hackathon+Enthusiast;AI+Engineer;Always+Achieving+%F0%9F%9A%80" alt="Typing SVG" />
   
   <h3 align="center">A passionate full-stack and AI developer always out for new projects and hackathons!</h3>
   
@@ -32,7 +32,7 @@
 | :--- | :--- | :--- |
 | **Finalist** | **National AI Competition 2025** | *Built [ViT Kuih Classification Model] - a ML model using Vision Transformer for classifying Malaysian kuih images* |
 | **Participant** | **CodeNection 2025** | *Built [TutorTree] - a prototype web application for connecting students, peers, and tutors for online tutoring sessions* |
-| **Participant** | **UMPSA x Huawei Competition 2025** | *Built [BullyHelp] - a mobile application for reporting bullying incidents with emergency alerts and anonymous forms in schools* |
+| **Participant** | **UMPSA x Huawei AppGallery Mobile App Competition 2025** | *Built [BullyHelp] - a mobile application for reporting bullying incidents with emergency alerts and anonymous forms in schools* |
 
 > **My Hackathon Philosophy:**
 >
@@ -163,7 +163,7 @@
   <table align="center">
     <tr>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mewhacks&show_icons=true&theme=tokyonight&count_private=true" alt="mewhacks's github stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mewhacks&show_icons=true&theme=tokyonight" alt="mewhacks's github stats" />
       </td>
       <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mewhacks&layout=compact&theme=tokyonight" alt="Top Languages" />
