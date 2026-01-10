@@ -1,22 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A020F0&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hana+Tang;Full+Stack+Developer;Hackathon+Enthusiast;AI+Engineer;Always+Achieving+%F0%9F%9A%80" alt="Typing SVG" />
   
-  <br/>
-  
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Cat Coding" />
+  <img src="https://camo.githubusercontent.com/e4d9a2b54030bfed2b48b2c0ccd6abefd908e62bfef861861c5fbdea99c3b0da/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="300" alt="Cat" />
 
-
+  <h3 align="center">Hi, I'm Hana - The Hackathon Hacker</h3>
+  <h4 align="center">IT Student | CGPA 4.0 | Full-Stack & Mobile Dev | AI Explorer</h4>
   
-  <h3 align="center">A passionate full-stack and AI developer always out for new projects and hackathons!</h3>
+  <p align="center">
+    🚀 <b>Know Me A Lil' More</b>
+    <br/>
+    I <b>love</b> turning matcha powder into clean code. My happy place is a hackathon floor with a team, a problem, and a deadline. Currently building my arsenal to tackle real-world problems through software that actually helps people.
+    <br/><br/>
+    <b>My mantra: "Build fast, learn faster."</b>
+  </p>
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mewhacks&label=Views&color=0e75b6&style=for-the-badge" alt="mewhacks" />
   </p>
 
-  <h3 align="center">Socials</h3>
+---
 
-  <!-- Connect Section -->
-  <p align="center">
+### ‧₊˚ ☁️ ⋅ Socials ⋅ ☁️ ˚₊‧ 
+
+<p align="center">
     <a href="https://linkedin.com/in/hana2006" target="blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -24,7 +29,7 @@
       <img src="https://img.shields.io/badge/Gmail-A020F0?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://hana-tang-portfolio.vercel.app" target="blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-310062?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://discordapp.com/users/824516886418161675" target="blank">
       <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
@@ -34,7 +39,7 @@
 
 ---
 
-### 🏆 Hackathon Achievements & Hacks
+### ‧₊˚ 🏆 ⋅ Hackathon Achievements & Hacks ⋅ 🏆 ˚₊‧
 
 | Achievement | Event | Description |
 | :--- | :--- | :--- |
@@ -44,7 +49,7 @@
 
 > **My Hackathon Philosophy:**
 >
-> ☕ **Matcha (or coffee) is mandatory** (Sometimes sleep is optional, yay)
+> 🍵 **Matcha (or coffee) is mandatory** (Sometimes sleep is optional, yay)
 >
 > 🚀 **MVP > Perfection** (Always ship something, ideas come first!)
 >
@@ -54,118 +59,60 @@
 
 ---
 
-### 🛠️ The Arsenal (Tech Stack)
+### ‧₊˚ 🛠️  ⋅ Tech Stack ⋅ 🛠️  ˚₊‧
 
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="48" height="48" alt="Android" />
-      <br>Android
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="48" height="48" alt="Flask" />
-      <br>Flask
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="PyTorch" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48" alt="OpenCV" />
-      <br>OpenCV
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
-      <br>Scikit
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<h4>🌐 Frontend Development</h4>
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind" />
+</p>
+
+<h4>🖥️ Backend Development</h4>
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" />
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="Flask" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+</p>
+
+<h4>🗄️ Databases</h4>
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40" alt="MariaDB" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
+</p>
+
+<h4>🤖 Machine Learning & Data Science</h4>
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn" />
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow" />
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch" />
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV" />
+</p>
+
+<h4>🛠️ Tools</h4>
+<p>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android" />
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop" />
+</p>
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### ‧₊˚ 📊  ⋅ GitHub Stats ⋅ 📊  ˚₊‧
 
 <div align="center">
   <table align="center">
@@ -196,7 +143,6 @@ echo "Keep building. Keep shipping. Don't stop."
 
 <br>
 
-> [!RECRUITERS]
 > **P.S. Looking for an IT internship from April-July 2026! If there are any opportunities, I'd love to discuss more!**
 
 </div>
