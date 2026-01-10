@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hana+Tang;Full+Stack+Developer;Hackathon+Enthusiast;AI+Engineer;Always+Achieving+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A020F0&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hana+Tang;Full+Stack+Developer;Hackathon+Enthusiast;AI+Engineer;Always+Achieving+%F0%9F%9A%80" alt="Typing SVG" />
   
   <h3 align="center">A passionate full-stack and AI developer always out for new projects and hackathons!</h3>
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mewhacks&label=Profile%20views&color=0e75b6&style=flat" alt="mewhacks" />
+    <img src="https://komarev.com/ghpvc/?username=mewhacks&label=Views&color=0e75b6&style=for-the-badge" alt="mewhacks" />
   </p>
+
+  <h3 align="center">Socials</h3>
 
   <!-- Connect Section -->
   <p align="center">
@@ -188,8 +190,8 @@ echo "Keep building. Keep shipping. Don't stop."
 
 <br>
 
-> [!TIP]
-> **P.S. Looking for a software internship from April-July 2026! If there are any opportunities, I'd love to discuss more! 🚀**
+> [!RECRUITERS]
+> **P.S. Looking for an IT internship from April-July 2026! If there are any opportunities, I'd love to discuss more!**
 
 </div>
 
