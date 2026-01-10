@@ -2,26 +2,27 @@
   
   <img src="https://camo.githubusercontent.com/e4d9a2b54030bfed2b48b2c0ccd6abefd908e62bfef861861c5fbdea99c3b0da/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="300" alt="Cat" />
 
-  <h3 align="center">Hi, I'm Hana - The Hackathon Hacker</h3>
-  <h4 align="center">IT Student | CGPA 4.0 | Full-Stack & Mobile Dev | AI Explorer</h4>
+  <h1 align="center">Hi, I'm Hana - The Hackathon Hacker</h1>
+  <h2 align="center">IT Student | CGPA 4.0 | Full-Stack & Mobile Dev | AI Explorer</h2>
+</div>
   
-  <p align="center">
+<p align="left">
     🚀 <b>Know Me A Lil' More</b>
     <br/>
     I <b>love</b> turning matcha powder into clean code. My happy place is a hackathon floor with a team, a problem, and a deadline. Currently building my arsenal to tackle real-world problems through software that actually helps people.
     <br/><br/>
     <b>My mantra: "Build fast, learn faster."</b>
-  </p>
+</p>
   
-  <p align="center">
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=mewhacks&label=Views&color=0e75b6&style=for-the-badge" alt="mewhacks" />
-  </p>
+</p>
 
 ---
 
 ### ‧₊˚ ☁️ ⋅ Socials ⋅ ☁️ ˚₊‧ 
 
-<p align="center">
+<p align="left">
     <a href="https://linkedin.com/in/hana2006" target="blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -34,8 +35,7 @@
     <a href="https://discordapp.com/users/824516886418161675" target="blank">
       <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
-  </p>
-</div>
+</p>
 
 ---
 
@@ -61,7 +61,7 @@
 
 ### ‧₊˚ 🛠️  ⋅ Tech Stack ⋅ 🛠️  ˚₊‧
 
-<div align="center">
+<div>
 
 <h4>🌐 Frontend Development</h4>
 <p>
@@ -114,14 +114,14 @@
 
 ### ‧₊˚ 📊  ⋅ GitHub Stats ⋅ 📊  ˚₊‧
 
-<div align="center">
-  <table align="center">
+<div>
+  <table>
     <tr>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mewhacks&show_icons=true&theme=tokyonight" alt="mewhacks's github stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mewhacks&show_icons=true&theme=tokyonight" alt="mewhacks's github stats" />
       </td>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mewhacks&layout=compact&theme=tokyonight" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mewhacks&layout=compact&theme=tokyonight" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -130,7 +130,7 @@
 
 <br>
 
-<div align="center">
+<div>
   
 ```bash
 # Run this in your terminal for good vibes 🚀
@@ -147,6 +147,6 @@ echo "Keep building. Keep shipping. Don't stop."
 
 </div>
 
-<div align="center">
+<div>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
