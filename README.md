@@ -43,19 +43,30 @@
 
 | Achievement | Event | Description |
 | :--- | :--- | :--- |
-| **Finalist** | **National AI Competition 2025** | *Built [ViT Kuih Classification Model] - a ML model using Vision Transformer for classifying Malaysian kuih images* |
+| **Finalist** | **National AI Competition 2025** | *Built [ViT Kuih Classification Model] - a ML model using Vision Transformer to classify 8 types of Malaysian kuih images* |
 | **Participant** | **CodeNection 2025** | *Built [TutorTree] - a prototype web application for connecting students, peers, and tutors for online tutoring sessions* |
 | **Participant** | **UMPSA x Huawei AppGallery Mobile App Competition 2025** | *Built [BullyHelp] - a mobile application for reporting bullying incidents with emergency alerts and anonymous forms in schools* |
 
 > **My Hackathon Philosophy:**
 >
-> 🍵 **Matcha (or coffee) is mandatory** (Sometimes sleep is optional, yay)
+> 🍵 **Matcha (or coffee) is mandatory** (Sometimes sleep is optional, health--)
 >
 > 🚀 **MVP > Perfection** (Always ship something, ideas come first!)
 >
 > 🌙 **The best insights come at 3am, lezgo**
 >
 > 🤝 **Teamwork makes the dream work**
+
+```bash
+$ git status
+On branch trying-my-best
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   another-side-project.js
+	modified:   sleep-schedule.txt # "what's sleep?"
+	deleted:    social-life.db # sorry mom and dad
+```
 
 ---
 
@@ -139,11 +150,11 @@ echo "Keep building. Keep shipping. Don't stop."
 
 *"Still writing my story, one commit at a time."*
 
-⭐ **If you like what you see, give my repos a star! It fuels my coding sessions.** ⭐
+⭐ **If you read this far: Hey, you're my kind of person. Let's build something stupidly ambitious together.** ⭐
 
 <br>
 
-> **P.S. Looking for an IT internship from April-July 2026! If there are any opportunities, I'd love to discuss more!**
+> **P.S. Actively seeking internship for April-July 2026! If your company likes passion over perfection, let's talk!**
 
 </div>
 <br>
