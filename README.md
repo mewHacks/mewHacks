@@ -2,12 +2,12 @@
   
   <img src="https://camo.githubusercontent.com/e4d9a2b54030bfed2b48b2c0ccd6abefd908e62bfef861861c5fbdea99c3b0da/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="300" alt="Cat" />
 
-  <h1 align="center">Hi, I'm Hana - The Hackathon Hacker</h1>
-  <h2 align="center">IT Student | CGPA 4.0 | Full-Stack & Mobile Dev | AI Explorer</h2>
+  <h1 align="center">Hi, I'm Hana</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=The+Hackathon+Hacker;Full-Stack+%26+Mobile+Dev;IT+Student+%7C+CGPA+4.0;Always+shipping+cool+stuff+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </div>
   
 <p align="left">
-    🚀 <b>Know Me A Lil' More</b>
+    🚀 <b>Knowing Me A Lil' More</b>
     <br/>
     I <b>love</b> turning matcha powder into clean code. My happy place is a hackathon floor with a team, a problem, and a deadline. Currently building my arsenal to tackle real-world problems through software that actually helps people.
     <br/><br/>
@@ -75,12 +75,12 @@
 
 <h4>🖥️ Backend Development</h4>
 <p>
-    <img src="https://img.shields.io/badge/Node.js-E74C3C?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-FF69B4?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flask-E67E22?style=for-the-badge&logo=flask&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-E74C3C?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/PHP-E67E22?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-2E86C1?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-884EA0?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-2E86C1?style=for-the-badge&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-884EA0?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-2E86C1?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-884EA0?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 <h4>🗄️ Databases</h4>
@@ -92,11 +92,11 @@
 
 <h4>🤖 Machine Learning & Data Science</h4>
 <p>
-    <img src="https://img.shields.io/badge/Pandas-E74C3C?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/Scikit_Learn-FF69B4?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-E67E22?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyTorch-E74C3C?style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenCV-FF69B4?style=for-the-badge&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-884EA0?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Scikit_Learn-2E86C1?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-884EA0?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-2E86C1?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenCV-884EA0?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 <h4>🛠️ Tools</h4>
@@ -145,6 +145,11 @@ echo "Keep building. Keep shipping. Don't stop."
 
 > **P.S. Looking for an IT internship from April-July 2026! If there are any opportunities, I'd love to discuss more!**
 
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/mewhacks/mewhacks/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <div>
