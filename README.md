@@ -149,7 +149,7 @@ echo "Keep building. Keep shipping. Don't stop."
 <br>
 
 <div align="center">
-  <img src="https://github.com/mewhacks/mewhacks/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mewhacks/mewhacks/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <div>
