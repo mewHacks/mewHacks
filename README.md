@@ -35,6 +35,9 @@
     <a href="https://discordapp.com/users/824516886418161675" target="blank">
       <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
+    <a href="https://www.reddit.com/user/mewHacks" target="blank">
+      <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+    </a>
 </p>
 
 ---
