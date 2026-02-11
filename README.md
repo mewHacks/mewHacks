@@ -46,9 +46,10 @@
 
 | Achievement | Event | Description |
 | :--- | :--- | :--- |
-| **Finalist** | **National AI Competition 2025** | *Built [ViT Kuih Classification Model] - a ML model using Vision Transformer to classify 8 types of Malaysian kuih images* |
-| **Participant** | **CodeNection 2025** | *Built [TutorTree] - a prototype web application for connecting students, peers, and tutors for online tutoring sessions* |
-| **Participant** | **UMPSA x Huawei AppGallery Mobile App Competition 2025** | *Built [BullyHelp] - a mobile application for reporting bullying incidents with emergency alerts and anonymous forms in schools* |
+| **Finalist** | **National AI Competition 2025** | *Built ViT Kuih Classification Model - a ML model using Vision Transformer to classify 8 types of Malaysian kuih images* |
+| **Participant** | **CodeNection 2025** | *Built TutorTree - a prototype web application for connecting students, peers, and tutors for online tutoring sessions* |
+| **Participant** | **UMPSA x Huawei AppGallery Mobile App Competition 2025** | *Built BullyHelp - a mobile application for reporting bullying incidents with emergency alerts and anonymous forms in schools* |
+| **Participant** | **Gemini 3 Hackathon** | *Built Echo - an autonomous Discord moderation bot using Gemini 3's multimodal reasoning to monitor text and voice channels in real time* |
 
 > **My Hackathon Philosophy:**
 >
@@ -95,6 +96,7 @@ Changes to be committed:
     <img src="https://img.shields.io/badge/Java-884EA0?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-2E86C1?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/PHP-884EA0?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-2E86C1?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 <h4>🗄️ Databases</h4>
