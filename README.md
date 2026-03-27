@@ -50,6 +50,7 @@
 | **Participant** | **CodeNection 2025** | *Built TutorTree - a prototype web application for connecting students, peers, and tutors for online tutoring sessions* |
 | **Participant** | **UMPSA x Huawei AppGallery Mobile App Competition 2025** | *Built BullyHelp - a mobile application for reporting bullying incidents with emergency alerts and anonymous forms in schools* |
 | **Participant** | **Gemini 3 Hackathon** | *Built Echo - an autonomous Discord moderation bot using Gemini 3's multimodal reasoning to monitor text and voice channels in real time* |
+| **Best Presenter** | **Sunway FYP Showcase** | *Built In-Aspired - a comprehensive AI-powered career guidance platform with RIASEC personality assessments, curated course and career pathways, and collaborative virtual study environments.* |
 
 > **My Hackathon Philosophy:**
 >
@@ -156,10 +157,6 @@ echo "Keep building. Keep shipping. Don't stop."
 *"Still writing my story, one commit at a time."*
 
 ⭐ **If you read this far: Hey, you're my kind of person. Let's build something stupidly ambitious together.** ⭐
-
-<br>
-
-> **P.S. Actively seeking internship for April-July 2026! If your company likes passion over perfection, let's talk!**
 
 </div>
 <br>
