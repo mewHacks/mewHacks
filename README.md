@@ -46,6 +46,7 @@
 
 | Achievement | Event | Description |
 | :--- | :--- | :--- |
+| **Finalist** | **TNGD Finhack 2026** | *Built SurvivAI - a Flutter mobile app that helps B40 households in Malaysia understand their financial runway and access emergency credit when needed* |
 | **Finalist** | **National AI Competition 2025** | *Built ViT Kuih Classification Model - a ML model using Vision Transformer to classify 8 types of Malaysian kuih images* |
 | **Participant** | **CodeNection 2025** | *Built TutorTree - a prototype web application for connecting students, peers, and tutors for online tutoring sessions* |
 | **Participant** | **UMPSA x Huawei AppGallery Mobile App Competition 2025** | *Built BullyHelp - a mobile application for reporting bullying incidents with emergency alerts and anonymous forms in schools* |
