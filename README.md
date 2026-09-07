@@ -47,6 +47,7 @@
 | Achievement | Event | Description |
 | :--- | :--- | :--- |
 | **Best Presenter** | **Sunway FYP Showcase** | *Built In-Aspired - a comprehensive AI-powered career guidance platform with RIASEC personality assessments, curated course and career pathways, and collaborative virtual study environments.* |
+| **SUI-Honourable Mention, GonkaRouter-11-20th** | **MUBA Blockchain Hackathon 2026** | *Built SHOU (守) - a Chrome extension that monitors scams passively on WhatsApp and Telegram, backed-up by a stablecoin wallet with self-defined spending rules* |
 | **Finalist** | **TNGD Finhack 2026** | *Built SurvivAI - a Flutter mobile app that helps B40 households in Malaysia understand their financial runway and access emergency credit when needed* |
 | **Finalist** | **Talentbank Tech Hackathon 2026** | *Built Candid- a CareerOS that shapes the 𝒇𝒖𝒕𝒖𝒓𝒆 of all APAC talents, with a Living Portfolio and an adaptive AI companion* |
 | **Finalist** | **National AI Competition 2025** | *Built ViT Kuih Classification Model - a ML model using Vision Transformer to classify 8 types of Malaysian kuih images* |
