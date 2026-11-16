@@ -23,7 +23,7 @@
 ### ‧₊˚ ☁️ ⋅ Socials ⋅ ☁️ ˚₊‧ 
 
 <p align="left">
-    <a href="https://linkedin.com/in/hana2006" target="blank">
+    <a href="https://linkedin.com/in/hanatangyh" target="blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:2006yihui@gmail.com">
@@ -47,10 +47,10 @@
 | Achievement | Hackathon | Project |
 | :--- | :--- | :--- |
 | **Champion** | **AntSpark Malaysia Buildathon** | *Built CareerWaze – an AI-powered, gamified career GPS with personalised roadmaps and adaptive AI rerouting to navigate career growth.* |
-| **1st Runner Up** | **STC x Kiro Mini Hackathon 2026** | *Built LiveBuoy, a smart waterproof emergency backpack that protects essential belongings, transmits SOS alerts through offline mesh networks, and helps rescuers locate flood victims.* |
+| **1st Runner Up** | **STC x Kiro Mini Hackathon 2026** | *Built LiveBuoy – a smart waterproof emergency backpack that protects essential belongings, transmits SOS alerts through offline mesh networks, and helps rescuers locate flood victims.* |
+| **1st Runner Up** | **Think Beyond the Prompt: Monash AI x Business Challenge** | *Case study competition that discussed business strategies to optimize capitals and solve problems* |
 | **Best Presenter** | **Sunway Diploma Studies FYP Showcase 2026** | *Built In-Aspired - a comprehensive AI-powered career guidance platform with RIASEC personality assessments, curated course and career pathways, and collaborative virtual study environments.* |
 | **SUI: Honourable Mention and GonkaRouter: 11-20th** | **MUBA Blockchain Hackathon 2026** | *Built SHOU (守) - a Chrome extension that monitors scams passively on WhatsApp and Telegram, backed-up by a stablecoin wallet with self-defined spending rules* |
-| **1st Runner Up** | **Think Beyond the Prompt: Monash AI x Business Challenge** | *Case study competition that discussed business strategies to optimize capitals and solve problems* |
 | **Top 10 Finalist** | **TNG Digital Finhack 2026** | *Built SurvivAI - a Flutter mobile app that helps B40 households in Malaysia understand their financial runway and access emergency credit when needed* |
 | **Top 10 Finalist** | **Talentbank Tech Hackathon 2026** | *Built Candid- a CareerOS that shapes the future of all APAC talents, with a Living Portfolio and an adaptive AI companion* |
 | **Top 10 Finalist** | **National AI Competition 2025** | *Built ViT Kuih Classification Model - a ML model using Vision Transformer to classify 8 types of Malaysian kuih images* |
