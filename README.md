@@ -47,6 +47,7 @@
 | Achievement | Hackathon | Project |
 | :--- | :--- | :--- |
 | **Champion** | **AntSpark Malaysia Buildathon** | *Built CareerWaze – an AI-powered, gamified career GPS with personalised roadmaps and adaptive AI rerouting to navigate career growth.* |
+| **1st Runner Up** | **STC x Kiro Mini Hackathon 2026** | *Built LiveBuoy, a smart waterproof emergency backpack that protects essential belongings, transmits SOS alerts through offline mesh networks, and helps rescuers locate flood victims.* |
 | **Best Presenter** | **Sunway Diploma Studies FYP Showcase 2026** | *Built In-Aspired - a comprehensive AI-powered career guidance platform with RIASEC personality assessments, curated course and career pathways, and collaborative virtual study environments.* |
 | **SUI: Honourable Mention and GonkaRouter: 11-20th** | **MUBA Blockchain Hackathon 2026** | *Built SHOU (守) - a Chrome extension that monitors scams passively on WhatsApp and Telegram, backed-up by a stablecoin wallet with self-defined spending rules* |
 | **1st Runner Up** | **Think Beyond the Prompt: Monash AI x Business Challenge** | *Case study competition that discussed business strategies to optimize capitals and solve problems* |
