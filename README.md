@@ -42,7 +42,7 @@
 
 ---
 
-### ‧₊˚ 🏆 ⋅ Hackathon Achievements & Hacks ⋅ 🏆 ˚₊‧
+### ‧₊˚ 🏆 ⋅ Hackathon Achievements ⋅ 🏆 ˚₊‧
 
 | Achievement | Hackathon | Project |
 | :--- | :--- | :--- |
@@ -63,22 +63,7 @@
 >
 > 🍵 **Matcha (or coffee) is mandatory** (Sometimes sleep is optional, health--)
 >
-> 🚀 **MVP > Perfection** (Always ship something, ideas come first!)
->
-> 🌙 **The best insights come at 3am, lezgo**
->
 > 🤝 **Teamwork makes the dream work**
-
-```bash
-$ git status
-On branch trying-my-best
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
-
-	new file:   another-side-project.js
-	modified:   sleep-schedule.txt # "what's sleep?"
-	deleted:    social-life.db # sorry mom and dad
-```
 
 ---
 
@@ -157,7 +142,7 @@ Changes to be committed:
 <div>
   
 ```bash
-# Run this in your terminal for good vibes 🚀
+# Run this in your terminal for good vibes 😎 
 echo "Keep building. Keep shipping. Don't stop."
 ```
 
