@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://camo.githubusercontent.com/e4d9a2b54030bfed2b48b2c0ccd6abefd908e62bfef861861c5fbdea99c3b0da/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="300" alt="Cat" />
+  <img src="https://raw.githubusercontent.com/mewHacks/mewHacks/main/assets/banner.gif" width="900" alt="Banner" />
 
   <h1 align="center">Hi, I'm Hana</h1>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=The+Hackathon+Hacker;Full-Stack+%26+Mobile+Dev;IT+Student+%7C+CGPA+4.0;Always+shipping+cool+stuff+%F0%9F%9A%80" alt="Typing SVG" /></a>
@@ -173,5 +173,5 @@ echo "Keep building. Keep shipping. Don't stop."
 </div>
 
 <div>
-  <img src="assets/banner.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
