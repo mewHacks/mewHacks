@@ -2,7 +2,7 @@
   
   <img src="https://raw.githubusercontent.com/mewHacks/mewHacks/main/assets/banner.gif" width="900" alt="Banner" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P  <h1 align="center">Hi, I'm Hana</h1>size=28  <h1 align="center">Hi, I'm Hana</h1>duration=2500  <h1 align="center">Hi, I'm Hana</h1>pause=100000  <h1 align="center">Hi, I'm Hana</h1>color=A020F0  <h1 align="center">Hi, I'm Hana</h1>center=true  <h1 align="center">Hi, I'm Hana</h1>vCenter=true  <h1 align="center">Hi, I'm Hana</h1>width=520  <h1 align="center">Hi, I'm Hana</h1>height=60  <h1 align="center">Hi, I'm Hana</h1>repeat=false  <h1 align="center">Hi, I'm Hana</h1>lines=Hi,+I%27m+Hana" alt="Hi, I'm Hana" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=2500&pause=100000&color=A020F0&center=true&vCenter=true&width=520&height=60&repeat=false&lines=Hi,+I%27m+Hana" alt="Hi, I'm Hana" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=The+Hackathon+Hacker;Full-Stack+%26+Mobile+Dev;IT+Student+%7C+CGPA+4.0;Always+shipping+cool+stuff+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </div>
   
